@@ -26,7 +26,7 @@
   - [Scribble source](https://github.com/rumineykova/scribble-java/tree/master/extensions/monitor-rest/src/test/resources/scribble/examples)
 
 * Others
-  - [Game](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/game/src/game) with **delegation** (from [A Linear Decomposition of Multiparty Sessions (ECOOP'17)](https://www.doc.ic.ac.uk/~ascalas/mpst-linear/) paper and artifact)
+  - [Game](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/game/src/game) with **delegation** from [A Linear Decomposition of Multiparty Sessions (ECOOP'17)](http://mrg.doc.ic.ac.uk/publications/a-linear-decomposition-of-multiparty-sessions-for-safe-distributed-programming/) paper and [artifact](https://www.doc.ic.ac.uk/~ascalas/mpst-linear/)
   - [Three Buyer Protocol](https://github.com/scribble/scribble-java/blob/master/scribble-demos/scrib/threebuyer/src/threebuyer/ThreeBuyer.scr), dynamically interleaved sessions from [MSCS'16](http://mrg.doc.ic.ac.uk/publications/global-progress-for-dynamically-interleaved-multiparty-sessions/) paper
   - [LoanApplication](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/loan/src/loan)
   - [Remote Procedure Call](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/rpc/src/rpc)
