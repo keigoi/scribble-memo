@@ -22,12 +22,24 @@
     - [Play-Resume pattern](https://confluence.oceanobservatories.org/display/CIDev/Resource+Control+in+Scribble), a page with figures in OOI website
     - [Original paper](http://mrg.doc.ic.ac.uk/publications/practical-interruptible-conversations-distributed-dynamic-verification-with-multiparty-session-types-and-python/) on interruptible (FMSD'15)
 
+* Other examples on **"interruptible"** and **"parallel composition"** (par)
+  - [Scribble source](https://github.com/rumineykova/scribble-java/tree/master/extensions/monitor-rest/src/test/resources/scribble/examples)
+
 * Others
-  - [Game](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/game/src/game) with **delegation** (from [A Linear Decomposition of Multiparty Sessions](https://www.doc.ic.ac.uk/~ascalas/mpst-linear/) paper)
+  - [Game](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/game/src/game) with **delegation** (from [A Linear Decomposition of Multiparty Sessions (ECOOP'17)](https://www.doc.ic.ac.uk/~ascalas/mpst-linear/) paper and artifact)
   - [Three Buyer Protocol](https://github.com/scribble/scribble-java/blob/master/scribble-demos/scrib/threebuyer/src/threebuyer/ThreeBuyer.scr), dynamically interleaved sessions from [MSCS'16](http://mrg.doc.ic.ac.uk/publications/global-progress-for-dynamically-interleaved-multiparty-sessions/) paper
   - [LoanApplication](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/loan/src/loan)
   - [Remote Procedure Call](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/rpc/src/rpc)
   - [Travel agency](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/travel/src/travel)
   - [Java RMI (remote method invocation)](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/bettybook/src/bettybook/math/rmi)
   
+
+## Features
+
+* Explicit connection and binary connection correlation (above)
+* Delegation (above)
+* Interruption (above)
+* [Multiparty Protocol Induced Recovery (CC'17)](http://mrg.doc.ic.ac.uk/publications/let-it-recover-multiparty-protocol-induced-recovery/) and its [implementation](https://gitlab.doc.ic.ac.uk/rn710/codeINspire)
+* Timed features (delay?) [Timed Multiparty Session Types (CONCUR'14)](http://mrg.doc.ic.ac.uk/publications/timed-multiparty-session-types/) and its [implementation](https://www.doc.ic.ac.uk/~lbocchi/TimeApp.html)
+
 
