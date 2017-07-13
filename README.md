@@ -9,7 +9,7 @@
 
 * [FASE'17 paper](https://www.doc.ic.ac.uk/~rhu/scribble/explicit.html) Explicit Connection Actions in Multiparty Session Types
   - [Scribble source](https://github.com/rhu1/scribble-java/tree/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper) with **"explicit connection"**
-  - [Travel Agency 2](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper/Sec4.scr) with **"explicit connection"** and **"binary connection correlation"**
+  - [Travel Agency 2](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/travel/shchan/Travel3.scr) with **"explicit connection"** and **"binary connection correlation"**
   - [Microservices use case](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper/AppD.scr) in Appendix D
 
 * [BETTY Summer School 2016](http://summerschool2016.behavioural-types.eu/)
