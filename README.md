@@ -8,8 +8,8 @@
   - Adder and SMTP ([code](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/fase16/src/fase16))
 
 * [FASE'17 paper](https://www.doc.ic.ac.uk/~rhu/scribble/explicit.html) Explicit Connection Actions in Multiparty Session Types
-  - [Scribble source](https://github.com/rhu1/scribble-java/tree/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper) with **explicit connection**
-  - [Travel Agency 2](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper/Sec4.scr) with **explicit connection** and **binary connection correlation**
+  - [Scribble source](https://github.com/rhu1/scribble-java/tree/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper) with **"explicit connection"**
+  - [Travel Agency 2](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper/Sec4.scr) with **"explicit connection"** and **"binary connection correlation"**
   - [Microservices use case](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17-merge-master/scribble-f17/src/test/scrib/f17/paper/AppD.scr) in Appendix D
 
 * [BETTY Summer School 2016](http://summerschool2016.behavioural-types.eu/)
@@ -18,7 +18,9 @@
   - Lecture 2 [PDF](http://summerschool2016.behavioural-types.eu/programme/betty16b.pdf)
     - Adder (and its Fibonacci client), SMTP and OOI Resource Usage Control (**interruptible**)
   - [Scribble source code](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/betty16/src/betty16)
-  - [Scribble source](https://github.com/scribble/scribble-python/tree/master/test/popl14)  for "**interruptible**" (from POPL'14, in scribble-python)
+  - [Scribble source](https://github.com/scribble/scribble-python/blob/master/test/popl14/ResourceControl.scr)  for "**interruptible**" (from [POPL'14 tutorial](http://popl.mpi-sws.org/2014/tutorials2.html#session), in scribble-python)
+    - [Play-Resume pattern](https://confluence.oceanobservatories.org/display/CIDev/Resource+Control+in+Scribble), a page with figures in OOI website
+    - [Original paper](http://mrg.doc.ic.ac.uk/publications/practical-interruptible-conversations-distributed-dynamic-verification-with-multiparty-session-types-and-python/) on interruptible (FMSD'15)
 
 * Others
   - [Game](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/game/src/game) with **delegation** (from [A Linear Decomposition of Multiparty Sessions](https://www.doc.ic.ac.uk/~ascalas/mpst-linear/) paper)
