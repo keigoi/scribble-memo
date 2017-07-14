@@ -56,7 +56,7 @@
 
 - Doesn't work due to limitation on connection and sending mixture
 
-  - "Travel" in [fase17/Travel1.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/travel/shchan/Travel1.scr)
+  - "Travel" in [fase17/Travel1.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/travel/orig/Travel1.scr)
   - "TravelAgency" in [fase17/Sec2.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/paper/Sec2.scr)
   - "BBSOriginal" in [LoanApplication.scr](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/loan/src/loan)
 
