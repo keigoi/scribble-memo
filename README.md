@@ -42,4 +42,23 @@
 * [Multiparty Protocol Induced Recovery (CC'17)](http://mrg.doc.ic.ac.uk/publications/let-it-recover-multiparty-protocol-induced-recovery/) and its [implementation](https://gitlab.doc.ic.ac.uk/rn710/codeINspire)
 * Timed features (delay?) [Timed Multiparty Session Types (CONCUR'14)](http://mrg.doc.ic.ac.uk/publications/timed-multiparty-session-types/) and its [implementation](https://www.doc.ic.ac.uk/~lbocchi/TimeApp.html)
 
+## Session-OCaml status
 
+- Worked (i.e., .ml is generated)
+  - fase16 adder and smtp
+  - MathService
+  - BuyerBrokerSupplier in LoanApplication.scr
+  - RPCComp, RPCComp2, MyRelay in RPC.scr
+  - TwoBuyer, TwoBuyerChoice, Proto in ThreeBuyer.scr
+  - Booking in Travel.scr
+  - BookingExp in Travel.scr
+  - "OptionalDynamicThirdParty" and "P2" in [fase17/Sec1.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/paper/Sec1.scr)
+
+- Doesn't work due to limitation on connection and sending mixture
+
+  - "Travel" in [fase17/Travel1.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/travel/shchan/Travel1.scr)
+  - "TravelAgency" in [fase17/Sec2.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/paper/Sec2.scr)
+  - "BBSOriginal" in [LoanApplication.scr](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/loan/src/loan)
+
+- Didn't work for other reason
+  - "AppD.scr" in [fase17/AppD.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/paper/AppD.scr)
