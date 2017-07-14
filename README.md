@@ -32,17 +32,16 @@
   - [Remote Procedure Call](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/rpc/src/rpc)
   - [Travel agency](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/travel/src/travel)
   - [Java RMI (remote method invocation)](https://github.com/scribble/scribble-java/tree/master/scribble-demos/scrib/bettybook/src/bettybook/math/rmi)
-  
 
-## Features
 
-* Explicit connection and binary connection correlation (above)
-* Delegation (above)
-* Interruption (above)
-* [Multiparty Protocol Induced Recovery (CC'17)](http://mrg.doc.ic.ac.uk/publications/let-it-recover-multiparty-protocol-induced-recovery/) and its [implementation](https://gitlab.doc.ic.ac.uk/rn710/codeINspire)
-* Timed features (delay?) [Timed Multiparty Session Types (CONCUR'14)](http://mrg.doc.ic.ac.uk/publications/timed-multiparty-session-types/) and its [implementation](https://www.doc.ic.ac.uk/~lbocchi/TimeApp.html)
+## Scribble-OCaml status
 
-## Session-OCaml status
+- [booking.ml (generated API)](https://github.com/keigoi/session-ocaml/blob/multiparty/examples/booking_example.ml) and [booking_example.ml (user code)](https://github.com/keigoi/session-ocaml/blob/multiparty/examples/booking.ml)
+- [explicit connection (API)](https://github.com/keigoi/session-ocaml/blob/multiparty/examples/explicit_connection.ml) and [example code](https://github.com/keigoi/session-ocaml/blob/multiparty/examples/explicit_connection_example.ml)
+- [OCaml code generated from FASE'16](https://github.com/keigoi/session-ocaml/tree/multiparty/examples/fase16)
+- [OCaml code generated from FASE'17](https://github.com/keigoi/session-ocaml/tree/multiparty/examples/fase17)
+- [others](https://github.com/keigoi/session-ocaml/tree/multiparty/examples/others)
+
 
 - Worked (i.e., .ml is generated)
   - fase16 adder and smtp
@@ -62,3 +61,13 @@
 
 - Didn't work for other reason
   - "AppD.scr" in [fase17/AppD.scr](https://github.com/rhu1/scribble-java/blob/rhu1-res/f17/scribble-f17/src/test/scrib/f17/paper/AppD.scr)
+
+  
+
+## Features
+
+* Explicit connection and binary connection correlation (above)
+* Delegation (above)
+* Interruption (above)
+* [Multiparty Protocol Induced Recovery (CC'17)](http://mrg.doc.ic.ac.uk/publications/let-it-recover-multiparty-protocol-induced-recovery/) and its [implementation](https://gitlab.doc.ic.ac.uk/rn710/codeINspire)
+* Timed features (delay?) [Timed Multiparty Session Types (CONCUR'14)](http://mrg.doc.ic.ac.uk/publications/timed-multiparty-session-types/) and its [implementation](https://www.doc.ic.ac.uk/~lbocchi/TimeApp.html)
